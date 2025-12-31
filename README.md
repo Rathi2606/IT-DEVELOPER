@@ -1,3 +1,7 @@
+- Link to the *live frontend* (Netlify): "https://it-developer-rathi.netlify.app"
+- Link to the *live backend* (Render): "https://it-developer-be-rathi.onrender.com"
+- Link to the *Backend GitHub* (inside box): "https://github.com/Rathi2606/IT-DEVELOPER-BE"
+
 # TaskLane Frontend
 
 A modern, responsive React-based frontend for TaskLane, a collaborative task management and kanban board application. Built with Vite, Tailwind CSS, and Redux for state management.
